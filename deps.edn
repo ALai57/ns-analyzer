@@ -1,0 +1,2 @@
+{:deps {rhizome/rhizome             {:mvn/version "0.2.9"}
+        org.clojure/tools.namespace {:mvn/version "1.3.0"}}}
